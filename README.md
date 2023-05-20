@@ -32,7 +32,7 @@ Developed by: N.SIDDARTHAN
 Registration Number: 212221040154
 */
 ```
-AndroidManifest.xml
+AndroidManifest.xml :
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
